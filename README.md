@@ -1,1 +1,1 @@
-# kali-update
+# kali-tool-update
