@@ -1,0 +1,10 @@
+# Nmap 7.94SVN scan initiated Fri Feb 16 06:03:54 2024 as: /usr/bin/nmap -sU --max-retries 1 --open --open -oN nmap/UDP_10.10.11.248.nmap --system-dns --stats-every 3s 10.10.11.248
+Warning: 10.10.11.248 giving up on port because retransmission cap hit (1).
+Nmap scan report for nagios.monitored.htb (10.10.11.248)
+Host is up (0.29s latency).
+Not shown: 630 open|filtered udp ports (no-response), 368 closed udp ports (port-unreach)
+PORT    STATE SERVICE
+123/udp open  ntp
+161/udp open  snmp
+
+# Nmap done at Fri Feb 16 06:10:06 2024 -- 1 IP address (1 host up) scanned in 372.28 seconds

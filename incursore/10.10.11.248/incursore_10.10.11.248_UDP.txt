@@ -1,0 +1,10 @@
+
+[1;32mLaunching a UDP scan on [0m10.10.11.248
+[0m
+[1;32mHost is likely running [0m[1;35mLinux[0m
+
+[1;32m[!] Finished all scans
+[0m
+
+[1;33mCompleted in 0 seconds
+[0m
