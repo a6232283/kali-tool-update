@@ -20,5 +20,5 @@ apt dist-upgrade -y
 # 清理無用的軟體包
 apt autoremove -y
 
-# 提示完成並重新啟動
-sudo reboot
+# 提示完成
+echo "建議重啟sudo reboot"
